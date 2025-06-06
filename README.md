@@ -20,7 +20,7 @@ expense-management-system/
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Mochitha/Expense-Tracking-System.git
+   https://github.com/Karthik-1221/Expense-Tracking-System.git
    cd Expense-Tracking-System
    ```
 2. **Install dependencies:**:   
