@@ -4,7 +4,7 @@ import requests  # HTTP requests handling
 import pandas as pd  # Data handling
 from background import set_background
 
-API_URL = "http://localhost:8502"  # Base API URL
+API_URL = "http://localhost:8000"  # Base API URL
 
 
 def analytics_by_month_tab():
