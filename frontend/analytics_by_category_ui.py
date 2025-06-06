@@ -6,7 +6,7 @@ import requests
 import pandas as pd
 from background import set_background
 set_background("#000000")
-API_URL ="http://localhost:8000"
+API_URL ="http://localhost:8502"
 def analytics_by_category_tab():
     col1, col2= st.columns(2)
     with col1:
