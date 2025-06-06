@@ -3,7 +3,7 @@ from datetime import datetime
 import requests
 from background import set_background
 set_background("#000000")
-API_URL ="http://localhost:8502"
+API_URL ="http://localhost:8000"
 def add_update_tab():
     selected_date=st.date_input("Enter Date", datetime(2024,8,1), label_visibility="collapsed")
     selected_date=selected_date.strftime("%Y-%m-%d")
