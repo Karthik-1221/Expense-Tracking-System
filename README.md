@@ -1,11 +1,12 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/22db57d3-21d6-4fe4-bf0d-b803464f61a5" width="500"/>
-</div>
+![Copilot_20250606_230951](https://github.com/user-attachments/assets/3b6afc4c-44bb-4363-8fe1-ecfb8fd289f9)
 
 
-🚀 A simple yet powerful Expense Management System built with Streamlit for the frontend and FastAPI for the backend.
 
-📂 Project Structure
+Expense Tracking System
+
+A streamlined and efficient Expense Management System built with Streamlit for the frontend and FastAPI for the backend. Designed to help users log, track, and analyze their spending in a clean and interactive interface.
+
+Project Structure
  ```commandline
 expense-management-system/
 ├── frontend/       # Streamlit frontend application
@@ -14,7 +15,7 @@ expense-management-system/
 ├── requirements.txt # Required Python packages
 └── README.md       # Project overview & setup instructions
  ```
-⚡ Quick Start
+Quick Start
 
 ## Setup Instructions
 
